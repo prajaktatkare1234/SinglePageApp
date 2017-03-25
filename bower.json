@@ -1,0 +1,21 @@
+{
+  "name": "spa",
+  "homepage": "https://github.com/prajaktatkare1234/Angular",
+  "authors": [
+    "SoumyaPotdar <soumya.potdar2>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "handlebars": "~3.0.3"
+  }
+}

@@ -1,0 +1,18 @@
+#d1,#d2{
+  border: 1px solid#d9d9d9;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 7px;
+  background-color: #ffffcc
+
+}
+body{
+  background-color: #001a33
+}
+a{
+  display: block;
+
+}
+#h3{
+  color: white
+}
